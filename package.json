@@ -10,8 +10,14 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@ant-design/icons": "5.0.1",
+<<<<<<< HEAD
     "@types/lodash": "^4.14.194",
+=======
+=======
+>>>>>>> 72c5410 (add support alias path)
+>>>>>>> 2e0e0dc (add support alias path)
     "@types/node": "^20.1.3",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
